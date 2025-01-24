@@ -43,7 +43,7 @@ This repository contains the following files:
 ## 🚀 Getting Started
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/store-data-analysis.git
+   https://github.com/shibambhagat/Store_Data_Analysis_Using_Excel
    ```
 2. Open the Excel file in Microsoft Excel or a compatible tool.
 3. Explore the various sheets for detailed analysis and visualizations.
